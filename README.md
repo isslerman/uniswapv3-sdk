@@ -9,7 +9,7 @@
 ## Installation
 
 ```sh
-go get github.com/slingshot-finance/uniswapv3-sdk
+go get github.com/isslerman/uniswapv3-sdk
 ```
 
 ## Usage
@@ -74,3 +74,7 @@ func main() {
 ```
 
 [More Examples](./examples/README.md)
+
+## Forked by
+
+This project was forked from https://github.com/slingshot-finance/uniswapv3-sdk and updated. Tks folks. 
