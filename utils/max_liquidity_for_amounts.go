@@ -3,7 +3,7 @@ package utils
 import (
 	"math/big"
 
-	"github.com/slingshot-finance/uniswapv3-sdk/constants"
+	"github.com/isslerman/uniswapv3-sdk/constants"
 )
 
 /**

@@ -9,8 +9,8 @@ import (
 
 	core "github.com/daoleno/uniswap-sdk-core/entities"
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/slingshot-finance/uniswapv3-sdk/entities"
-	"github.com/slingshot-finance/uniswapv3-sdk/utils"
+	"github.com/isslerman/uniswapv3-sdk/entities"
+	"github.com/isslerman/uniswapv3-sdk/utils"
 )
 
 //go:embed contracts/lens/Quoter.sol/Quoter.json

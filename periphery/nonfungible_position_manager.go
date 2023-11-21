@@ -9,9 +9,9 @@ import (
 	core "github.com/daoleno/uniswap-sdk-core/entities"
 	"github.com/ethereum/go-ethereum/accounts/abi"
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/slingshot-finance/uniswapv3-sdk/constants"
-	"github.com/slingshot-finance/uniswapv3-sdk/entities"
-	"github.com/slingshot-finance/uniswapv3-sdk/utils"
+	"github.com/isslerman/uniswapv3-sdk/constants"
+	"github.com/isslerman/uniswapv3-sdk/entities"
+	"github.com/isslerman/uniswapv3-sdk/utils"
 )
 
 //go:embed contracts/interfaces/INonfungiblePositionManager.sol/INonfungiblePositionManager.json
@@ -43,7 +43,7 @@ type IncreaseSpecificOptions struct {
 	TokenID *big.Int // Indicates the ID of the position to increase liquidity for
 }
 
-//  Options for producing the calldata to add liquidity
+// Options for producing the calldata to add liquidity
 type CommonAddLiquidityOptions struct {
 	SlippageTolerance *core.Percent  // How much the pool price is allowed to move
 	Deadline          *big.Int       // When the transaction expires, in epoch seconds

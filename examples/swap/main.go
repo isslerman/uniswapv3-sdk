@@ -10,10 +10,10 @@ import (
 	coreEntities "github.com/daoleno/uniswap-sdk-core/entities"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/ethclient"
-	"github.com/slingshot-finance/uniswapv3-sdk/constants"
-	"github.com/slingshot-finance/uniswapv3-sdk/entities"
-	"github.com/slingshot-finance/uniswapv3-sdk/examples/helper"
-	"github.com/slingshot-finance/uniswapv3-sdk/periphery"
+	"github.com/isslerman/uniswapv3-sdk/constants"
+	"github.com/isslerman/uniswapv3-sdk/entities"
+	"github.com/isslerman/uniswapv3-sdk/examples/helper"
+	"github.com/isslerman/uniswapv3-sdk/periphery"
 )
 
 func init() {

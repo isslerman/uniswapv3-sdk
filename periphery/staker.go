@@ -7,8 +7,8 @@ import (
 	core "github.com/daoleno/uniswap-sdk-core/entities"
 	"github.com/ethereum/go-ethereum/accounts/abi"
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/slingshot-finance/uniswapv3-sdk/entities"
-	"github.com/slingshot-finance/uniswapv3-sdk/utils"
+	"github.com/isslerman/uniswapv3-sdk/entities"
+	"github.com/isslerman/uniswapv3-sdk/utils"
 )
 
 const INCENTIVE_KEY_ABI = "tuple(address rewardToken, address pool, uint256 startTime, uint256 endTime, address refundee)"

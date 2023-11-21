@@ -6,8 +6,8 @@ import (
 
 	"github.com/daoleno/uniswap-sdk-core/entities"
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/slingshot-finance/uniswapv3-sdk/constants"
-	"github.com/slingshot-finance/uniswapv3-sdk/utils"
+	"github.com/isslerman/uniswapv3-sdk/constants"
+	"github.com/isslerman/uniswapv3-sdk/utils"
 )
 
 var (

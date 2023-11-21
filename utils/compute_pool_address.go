@@ -7,7 +7,7 @@ import (
 	"github.com/ethereum/go-ethereum/accounts/abi"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/slingshot-finance/uniswapv3-sdk/constants"
+	"github.com/isslerman/uniswapv3-sdk/constants"
 )
 
 /**

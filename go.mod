@@ -6,7 +6,6 @@ require (
 	github.com/daoleno/uniswap-sdk-core v0.1.7
 	github.com/ethereum/go-ethereum v1.13.5
 	github.com/shopspring/decimal v1.3.1
-	github.com/slingshot-finance/uniswapv3-sdk v0.0.0-20230510190000-183b1f8476b8
 	github.com/stretchr/testify v1.8.4
 )
 

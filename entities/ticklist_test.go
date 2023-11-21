@@ -4,7 +4,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/slingshot-finance/uniswapv3-sdk/utils"
+	"github.com/isslerman/uniswapv3-sdk/utils"
 	"github.com/stretchr/testify/assert"
 )
 
